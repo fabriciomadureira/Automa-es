@@ -1,1 +1,3 @@
-# Automa-es
+# Automações-es
+#Python
+#ShellScript
